@@ -20,9 +20,7 @@ We embark on a journey of discovery as we leverage our data analysis expertise t
 
 9. **investor**: Specifies the investors who have invested in the startup, shedding light on the financial backers of the company.
 
-10. **Data_year**: Represents the year associated with the data in the dataset. It indicates the year when the information was collected or the data corresponds to.
-
-11. **Broad_Stage**: This column may provide a broader categorization of the stage of development, giving a high-level overview of the startup's funding stage.
+10. **year**: Represents the year associated with the data in the dataset. It indicates the year when the information was collected or the data corresponds to.
 
 
 
