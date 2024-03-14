@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore .env file
+/.env
+
+# Ignore .venv directory
+/.venv
+
+/.ipynb_checkpoints
+
