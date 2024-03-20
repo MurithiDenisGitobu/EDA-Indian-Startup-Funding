@@ -1,19 +1,19 @@
-# 🚀 EDA-Indian-Startup-Funding: Unveiling Hidden Gems in the Tech Oasis
+# Indian Startup Ecosystem Analysis(2018–2021)
 
-Embark on a thrilling expedition with us as we decode the enigmatic Indian startup ecosystem. Our data analysis prowess isn't just about numbers; it's a quest to unearth the untapped potential that lies within, guiding our team to triumph in this dynamic market.
+Come along on an exciting adventure with us as we explore the fascinating Indian startup scene. Our knack for understanding data isn't just about numbers – it's like hunting for hidden gems. By using our insights, we help our team succeed in this fast-paced and ever-changing market.
+## Columns 💡
 
-## Columns of Power 💡
+1. **company_brand**: Name and story of each startup.
+2. **sector**: Field of operation or industry.
+3. **series**: Stage of funding or investment round.
+4. **amount**: Monetary value of funding received.
+5. **headquarter**: Location of the startup's main office.
+6. **what_it_does**: Description of the product or service offered by the startup.
+7. **founded**: Year when the startup was established.
+8. **founders**: Individuals who founded the startup.
+9. **investor**: Entities or individuals providing financial support or investment.
+10. **year**: Time reference indicating when the data was recorded or relevant to the startup's history.
 
-1. **company_brand**: The heartbeat of startups, each with its own unique brand and story.
-2. **sector**: A glimpse into the vibrant tapestry of industries—AI & Data Science, FinTech, Health Care, and more.
-3. **series**: The lifecycle indicator—Seed, Series A, Series B—revealing the growth trajectory.
-4. **amount**: The financial heartbeat—total funding or amounts for specific funding rounds.
-5. **headquarter**: The geographical pulse, defining where these innovators call home.
-6. **what_it_does**: The essence of innovation—concise descriptions of startup services/products.
-7. **founded**: A time capsule marking the birth year of startups, offering historical context.
-8. **founders**: The visionary architects—individuals shaping the future.
-9. **investor**: Financial allies—insight into the backers fueling dreams.
-10. **year**: The timeline, placing data in its historical context.
 
 ## Unleash the Power 🚀
 
