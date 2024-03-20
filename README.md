@@ -40,7 +40,10 @@ Dare to be part of the adventure! Contribute and leave your mark on this epic jo
 4. **Push to the Branch:** `git push origin feature_branch`
 5. **Submit a Pull Request.**
 
-## License to Thrill 🎉
+## Power BI Deployment
+**Link** : https://app.powerbi.com/groups/me/reports/5ae5f786-3b1b-426f-9b4c-88ddf801edd1/ReportSection?experience=power-bi
+
+## License
 
 This project operates under the [MIT License](LICENSE.md).
 
